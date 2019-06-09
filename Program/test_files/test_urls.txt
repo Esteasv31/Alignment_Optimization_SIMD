@@ -1,0 +1,18 @@
+N° | ID | NAME    | GROUP | EPOCH | COUNTRY | SEX | URL 
+1  | 4  | RISE507 | BARu  | BRONZ | RUSSIA  |  F  | https://amtdb.org/static_md5/data/fasta/RISE507.fa 
+2  | 14 | I1097   | NENE  | NEOLT | TURKEY  |  M  | https://amtdb.org/static_md5/data/fasta/I1097.fa
+3  | 36 | RISE94  | CWC   | NEOLT | SWEDEN  |  M  | https://amtdb.org/static_md5/data/fasta/RISE94.fa 
+4  | 41 | RISE00  | CWC   | NEOLT | ESTONIA |  F  | https://amtdb.org/static_md5/data/fasta/RISE00.fa
+5  | 55 | RISE436 | CWC   | NEOLT | GERMANY |  M  | https://amtdb.org/static_md5/data/fasta/RISE436.fa
+6  | 56 | RISE431 | CWC   | NEOLT | POLAND  |  M  | https://amtdb.org/static_md5/data/fasta/RISE431.fa 
+7  | 60 | GoyetQ116-1 | HGW | AURIGNACIAN | BEELGIUM | M | https://amtdb.org/static_md5/data/fasta/GoyetQ116-1.fa
+8  | 61 | RISE349 | BAHu  | BRONZ | HUNGARY |  F  | https://amtdb.org/static_md5/data/fasta/RISE349.fa
+9  | 102 | RISE391 | BARu | BRONZ | KAZAKHSTAN | F | https://amtdb.org/static_md5/data/fasta/RISE391.fa
+10 | 116 | RISE577 | UNC  | BRONZ | CZECH REP | F | https://amtdb.org/static_md5/data/fasta/RISE577.fa
+11 | 135 | Rochedane | HGW | EPIPALEOLITHIC | FRANCE | M | https://amtdb.org/static_md5/data/fasta/Rochedane.fa
+12 | 155 | Loschbour | HGW | MESOLITHIC | LUXEMBOURG | F | https://amtdb.org/static_md5/data/fasta/Loschbour.fa
+13 | 194 | I6774 | BBC | BRONZ | GREAT BRITAIN | M | https://amtdb.org/static_md5/data/fasta/I6774.fa
+14 | 353 | I5759 | BBC | COPPER | SWITZERLAND | F | https://amtdb.org/static_md5/data/fasta/I5759.fa
+15 | 357 | I1970 | BBC | COPPER | PORTUGAL | M | https://amtdb.org/static_md5/data/fasta/I1970.fa
+16 | 384 | I0260 | BBC | COPPER | SPAIN | F | https://amtdb.org/static_md5/data/fasta/I0260.fa
+17 | 395 | I4933 | BBC | COPPER | ITALY | U | https://amtdb.org/static_md5/data/fasta/I4933.fa

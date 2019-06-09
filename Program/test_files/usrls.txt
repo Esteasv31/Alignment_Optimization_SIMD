@@ -1,0 +1,17 @@
+https://amtdb.org/static_md5/data/fasta/RISE507.fa
+https://amtdb.org/static_md5/data/fasta/I1097.fa
+https://amtdb.org/static_md5/data/fasta/RISE94.fa
+https://amtdb.org/static_md5/data/fasta/RISE00.fa
+https://amtdb.org/static_md5/data/fasta/RISE436.fa
+https://amtdb.org/static_md5/data/fasta/RISE431.fa
+https://amtdb.org/static_md5/data/fasta/GoyetQ116-1.fa
+https://amtdb.org/static_md5/data/fasta/RISE349.fa
+https://amtdb.org/static_md5/data/fasta/RISE391.fa
+https://amtdb.org/static_md5/data/fasta/RISE577.fa
+https://amtdb.org/static_md5/data/fasta/Rochedane.fa
+https://amtdb.org/static_md5/data/fasta/Loschbour.fa
+https://amtdb.org/static_md5/data/fasta/I6774.fa
+https://amtdb.org/static_md5/data/fasta/I5759.fa
+https://amtdb.org/static_md5/data/fasta/I1970.fa
+https://amtdb.org/static_md5/data/fasta/I0260.fa
+https://amtdb.org/static_md5/data/fasta/I4933.fa
